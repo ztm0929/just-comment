@@ -9,8 +9,8 @@
 		"lint": "next lint"
 	},
 	"dependencies": {
-		"@fuma-comment/react": "workspace:*",
-		"@fuma-comment/server": "workspace:*",
+		"@fuma-comment/react": "^1.3.0",
+		"@fuma-comment/server": "^1.3.0",
 		"better-auth": "^1.2.10",
 		"drizzle-orm": "^0.44.2",
 		"next": "15.3.4",
